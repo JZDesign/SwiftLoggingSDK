@@ -10,7 +10,7 @@ Below is an example of a LogTarget for Sematext:
 
 ```swift
 import Foundation
-import SwiftLoggingSDK
+import Logging
 import Logsene
 
 struct LogseneTarget: LogTarget {
